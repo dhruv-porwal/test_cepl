@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061586184493",
+    "project_id": "phone-otpa",
+    "storage_bucket": "phone-otpa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061586184493:android:9a7f4d8780143b5aca8ba4",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061586184493-72th5og48al4b78vh0bpobh7n8i4s51k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3zRkbLZRg5ILdLDlC8e6XjDLuDRm6KGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061586184493-72th5og48al4b78vh0bpobh7n8i4s51k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
